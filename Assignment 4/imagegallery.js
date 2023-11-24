@@ -31,7 +31,7 @@ newImage.setAttribute('alt', alts[image]);
 thumbBar.appendChild(newImage);
 newImage.addEventListener('click', e => {
     displayedImage.src = e.target.src;
-  displayedImage.alt = e.target.alt;
+    displayedImage.alt = e.target.alt;
 });
 }
 
