@@ -16,6 +16,7 @@ const alts = {
 
 /* Declaring the alternative text for each image file */
 
+
 /* Looping through images */
 
 const newImage = document.createElement('img');
