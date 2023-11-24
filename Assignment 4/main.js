@@ -1,3 +1,8 @@
+
+// Name: Angel Raj Shrestha
+// File: main.js
+// Date: 24th November, 2023
+
 const customName = document.getElementById('customname');
 const randomize = document.querySelector('.randomize');
 const story = document.querySelector('.story');

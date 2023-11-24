@@ -1,3 +1,8 @@
+// Name: Angel Raj Shrestha
+// File: bouncingballs.js
+// Date: 24th November, 2023
+
+
 // setup canvas
 
 const canvas = document.querySelector('canvas');
@@ -102,6 +107,6 @@ class Ball {
       
         requestAnimationFrame(loop);
     }
-}
+
     
 loop();

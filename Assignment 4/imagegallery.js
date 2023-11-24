@@ -1,3 +1,8 @@
+// Name: Angel Raj Shrestha
+// File: imagegallery.jss
+// Date: 24th November, 2023
+
+
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
 

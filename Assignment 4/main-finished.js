@@ -1,3 +1,7 @@
+// Name: Angel Raj Shrestha
+// File: main-finished.js
+// Date: 24th November, 2023
+
 // set up canvas
 const para = document.querySelector('p');
 let count = 0;
