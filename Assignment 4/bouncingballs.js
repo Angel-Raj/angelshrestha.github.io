@@ -56,3 +56,17 @@ class Ball {
         this.x += this.velX;
         this.y += this.velY;
     }
+
+
+    function loop() {
+        ctx.fillStyle = "rgba(0, 0, 0, 0.25)";
+        ctx.fillRect(0, 0, width, height);
+      
+        for (const ball of balls) {
+          ball.draw();
+          ball.update();
+        }
+      
+        requestAnimationFrame(loop);
+      }
+      
