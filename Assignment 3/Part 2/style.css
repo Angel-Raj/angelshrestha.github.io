@@ -7,6 +7,13 @@ html {
     height: 200px;
     margin: auto;
     line-height: 9;
+
+    /* 1rem = 16pxl. So set the font size to around 1.1 to get 17-18 pixels size.*/
+    font-size: 1.1rem; 
+    text-align: center;
+    color: white;
+    /* Text shadow */
+    text-shadow: 1px 1px 1px black;
   }
   
   /* Your CSS below here */
