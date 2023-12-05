@@ -46,3 +46,16 @@
   }
   
   /* WRITE YOUR CODE BELOW HERE */
+  h1, h2 {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 2px;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 3.2rem;
+  }
