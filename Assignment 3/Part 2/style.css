@@ -1,5 +1,12 @@
 html {
     font-family: sans-serif;
   }
+  div
+  {
+    width :200px;
+    height: 200px;
+    margin: auto;
+    line-height: 9;
+  }
   
   /* Your CSS below here */
